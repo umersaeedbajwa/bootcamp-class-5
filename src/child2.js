@@ -14,7 +14,7 @@ const Child2 = ()=>{
             <br></br>
             <button onClick={()=>dispatch('DECREMENT')}>Decrement</button>
             <button onClick={()=>dispatch('MULTIPLY 2')}>MULTIPLY 2</button>
-            
+            <br></br>
             <button onClick={()=>dispatch('DEFAULT')}>Set to Default</button>
              
         </div>
